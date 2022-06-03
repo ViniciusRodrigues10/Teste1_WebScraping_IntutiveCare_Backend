@@ -35,7 +35,7 @@ Todas as tarefas deste teste devem ser executadas em código nas linguagens Pyth
 
 - `Funcionalidade 2a`: Compactar a pasta criado em um arquivo ZIP
 
-## 📚: Bibliotecas utilizadas 
+## 📚: Bibliotecas utilizada
 
 - `os`
 - `zipfile`
